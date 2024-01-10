@@ -1,0 +1,16 @@
+export default {
+  Dashboard: 'Dashboard',
+  Invoice: 'Invoice',
+  placeholderSearch: 'Search...',
+  newInvoice: 'New Invoice',
+  client: 'Client',
+  amount: 'Amount',
+  export: 'Export',
+  send: 'Send',
+  cancel: 'Cancel',
+  next: 'Next',
+  save: 'Save',
+  logOut: 'LogOut',
+  ok: 'Ok',
+  logoutMessage: 'Are you sure you want to logout?',
+};

@@ -1,0 +1,15 @@
+export default {
+  Dashboard: 'Dashboard',
+  Invoice: 'Invoice',
+  Setting: 'Setting',
+  Profile: 'Profile',
+  NewInvoice: 'NewInvoice',
+  NewInvoiceForm: 'NewInvoiceForm',
+  NewInvoicePreview: 'NewInvoicePreview',
+  InvoiceGenerate: 'InvoiceGenerate',
+  Registration: 'Registration',
+  Sigin: 'Signin',
+  SplashScreen: 'SplashScreen',
+  DropDownModal: 'DropDownModal',
+  CustomAlert: 'CustomAlert',
+};
